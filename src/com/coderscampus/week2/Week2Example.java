@@ -28,6 +28,8 @@ public class Week2Example {
 			System.out.println("Hello: " + name); 
 			
 		scanner.close();
+		
+		// Final change 
 	}
 
 }
