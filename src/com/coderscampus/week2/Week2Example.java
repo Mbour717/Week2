@@ -19,6 +19,8 @@ public class Week2Example {
 		String userInput = scanner.nextLine(); 
 		
 		System.out.println("You type in: " + userInput);
+		
+		//Testing git.
 	}
 
 }
