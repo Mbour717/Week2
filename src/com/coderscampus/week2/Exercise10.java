@@ -1,8 +1,8 @@
 package com.coderscampus.week2;
 
-import java.util.Scanner;
+import java.util.Scanner; 
 
-public class Exercise4 {
+public class Exercise10 {
 	
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

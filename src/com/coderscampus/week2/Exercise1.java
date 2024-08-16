@@ -18,5 +18,6 @@ public class Exercise1 {
 			System.out.println("Yes!");
 		}
 		
+		scanner.close();
 	}
 }

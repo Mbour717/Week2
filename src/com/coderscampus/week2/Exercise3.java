@@ -18,6 +18,7 @@ public class Exercise3 {
 			System.out.println("Yes!");
 		}
 		
+		scan.close();
 	}
 
 }
